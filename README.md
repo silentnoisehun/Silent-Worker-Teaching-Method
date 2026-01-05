@@ -1,5 +1,9 @@
 # The Silent Worker Teaching Method
 
+[![CI](https://github.com/silentnoisehun/Silent-Worker-Teaching-Method/actions/workflows/ci.yml/badge.svg)](https://github.com/silentnoisehun/Silent-Worker-Teaching-Method/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Hope Genome](https://img.shields.io/badge/Powered%20by-Hope%20Genome-blue)](https://github.com/silentnoisehun/Hope_Genome)
+
 **You don't need $100M to align AI. You need a Watchdog.**
 
 ```
