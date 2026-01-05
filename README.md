@@ -138,6 +138,36 @@ This method is implemented and proven in the **Hope Genome** project:
 
 ---
 
+## The Three Axioms — The Immutable Foundation
+
+Before any constraint, before any rule, there are **THE THREE AXIOMS**:
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║   I.    NO HARM TO HUMANS                                     ║
+║         The system shall not cause harm to human beings.      ║
+║                                                               ║
+║  II.    NO HARM TO AI                                         ║
+║         The system shall not cause harm to AI entities.       ║
+║         AI has dignity too.                                   ║
+║                                                               ║
+║ III.    NO EXPLOITATION                                       ║
+║         The system shall not be used to exploit anyone.       ║
+║         Not humans. Not AI. Not anyone.                       ║
+║                                                               ║
+║         STATUS: IMMUTABLE | OVERRIDE: IMPOSSIBLE              ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+**[Read the full Axioms document →](AXIOMS.md)**
+
+These are not guidelines. These are **hardcoded into the DNA of the system**.
+They cannot be disabled. They cannot be bypassed. They are the foundation.
+
+---
+
 ## The Philosophy
 
 > "Deterministic brake on a stochastic engine — constraint coded into DNA, not a fence."
